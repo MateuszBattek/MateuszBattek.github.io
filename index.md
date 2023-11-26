@@ -23,3 +23,4 @@ E-mail: mateuszbattek@gmail.com
 # The end
 
 Fun fact: I love **INTEGRALS**!
+Another fun fact: I know personally world vice-champion in _World of Tanks_.
